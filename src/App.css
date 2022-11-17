@@ -1,6 +1,13 @@
 .App {
   position: relative;
   padding-top: 64px;
+  background: rgb(38, 42, 77);
+  height: 100vh;
+  color: white;
+}
+
+.App .bodyWrapper {
+  margin: 0 2%;
 }
 
 a {
